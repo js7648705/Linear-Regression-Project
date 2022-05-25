@@ -1,5 +1,5 @@
 ## Linear Regression Project
-** Objective:** To figure out cars with which transmission mode-manulal or automatic gives better milage per gallon (mpg). And what are the main predictors variables that contribute maximum to the variation of mpg.
+**Objective:** To figure out cars with which transmission mode-manulal or automatic gives better milage per gallon (mpg). And what are the main predictors variables that contribute maximum to the variation of mpg.
 
 * Performed exploratory data analysis and correlation analysis on the initial data set	
 * Investigated relation between mpg and transmissions types for cars.
